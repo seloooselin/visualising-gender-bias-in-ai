@@ -1,0 +1,54 @@
+[
+  {
+    "file": "assets/charts/heatmap.png",
+    "sha256": "d4ea166349c73157fd1925ef475ef9c4c46808111dcc42e7952954f48ea6786f",
+    "bytes": 517349,
+    "treatment": "Unchanged recovered original"
+  },
+  {
+    "file": "assets/charts/combinedheatmap.png",
+    "sha256": "6cd7e4520a1c4fc0e26dee02c34cc268a0f87013e0e7ccb10aaeb7d5f95ffa36",
+    "bytes": 245923,
+    "treatment": "Unchanged recovered original"
+  },
+  {
+    "file": "assets/charts/weatbiasscore.png",
+    "sha256": "5370ff684502a2b9a7cd99928049999f782b9cf833a4b4c372e75805818f9012",
+    "bytes": 68912,
+    "treatment": "Unchanged recovered original"
+  },
+  {
+    "file": "assets/charts/radarchart.png",
+    "sha256": "8543fa8102cbac9b405cc7782ba3de6cf6caf26215c473e514d097248b821061",
+    "bytes": 515900,
+    "treatment": "Unchanged recovered original"
+  },
+  {
+    "file": "assets/images/visualgenderbias1.png",
+    "sha256": "64086891715840d3b22389a912ea11406daf6206208f834cd8ef637fbb7b9232",
+    "bytes": 4553233,
+    "treatment": "Public XMP metadata sanitized; compressed IDAT data and image pixels unchanged",
+    "source_sha256": "3c5dbbf6a306ed2674ca8d7eefbff5ea2af4e8f1bfc4e38a02d8b386c0a54c39"
+  },
+  {
+    "file": "assets/images/visualgenderbias2.png",
+    "sha256": "fa8ae90ba7a4895b17079ad31961989f30b438cdfa113092b3b38b38d6ea4954",
+    "bytes": 4661493,
+    "treatment": "Public XMP metadata sanitized; compressed IDAT data and image pixels unchanged",
+    "source_sha256": "0b3fc11c1c53f2574e072edef677045d2584dc4d9b237ded282f893fb762bf84"
+  },
+  {
+    "file": "reports/unveiling-bias-submitted-essay.pdf",
+    "sha256": "34ffa0c14fd53257a6802c2c5d34f7460067fdf714ec118a167f0fc1d243130f",
+    "bytes": 10523018,
+    "treatment": "Metadata-only public copy with neutral filename; all 14 page renders and extracted texts identical to the source",
+    "source_sha256": "f0699c1b90acc640f659d48dadbeeca74ec44d52dbf35013c91ac25575bc8f37"
+  },
+  {
+    "file": "notebooks/weatvisual.ipynb",
+    "source_sha256": "294594612c6fed09e6c97dba07ec11a6610264cf54c704a20f4407771d791350",
+    "treatment": "Cleaned copy; final author metadata updated; all prepared code cells unchanged; see PROVENANCE.md",
+    "sha256": "2a442977f3650d3c0da64837dd45e47d9c96f9cfb591153d63277500fc1c8493",
+    "bytes": 23140
+  }
+]

@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+data/*
+!data/README.md
+glove*.zip
+glove*.txt
+*.executed.ipynb
