@@ -1,6 +1,6 @@
 # Publication review — final local cleanup
 
-Reviewed 22 October 2026. **Suitable for public portfolio publication within the documented scope; no material publication blocker identified.** No Git repository has been initialized or published. No repository-wide licence has been added.
+Reviewed 22 October 2026. **Suitable for public portfolio publication within the documented scope; no material publication blocker identified.** The reviewed package is now published in this public GitHub repository. No repository-wide licence has been added.
 
 ## Privacy and file integrity
 
@@ -30,4 +30,4 @@ A full Jupyter run with the pinned Gensim/plotting environment remains unverifie
 
 ## Release conclusion
 
-The straightforward privacy, attribution, path, and publication-readiness issues identified in the prepared package have been addressed. No material unresolved publication blocker was found. This does not grant a blanket reuse licence or claim complete computational reproducibility. The package remains local for the user's publication decision.
+The straightforward privacy, attribution, path, and publication-readiness issues identified in the prepared package have been addressed. No material unresolved publication blocker was found. This does not grant a blanket reuse licence or claim complete computational reproducibility. The package has since been published within the reviewed scope.

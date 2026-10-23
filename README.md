@@ -112,7 +112,7 @@ The text and image examples offer complementary perspectives on stereotypes. The
 Use **Python 3.10 or 3.11**. The requirements pin a compatibility environment around the recovered scientific stack; a complete end-to-end environment run remains a review item. Numerical checks are described separately below.
 
 ```bash
-cd Gender-Bias-AI-Portfolio
+cd visualising-gender-bias-in-ai
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt

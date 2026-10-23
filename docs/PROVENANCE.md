@@ -1,6 +1,6 @@
 # Recovery and preparation record
 
-Prepared 22 October 2026. The original files and connected Drive sources were not edited. Final publication cleanup completed 22 October 2026. This is a local public-ready portfolio package; no repository has been created or published.
+Prepared 22 October 2026. The original files and connected Drive sources were not edited. Final publication cleanup completed 22 October 2026. This portfolio package is now published in this public GitHub repository; the dated preparation record below describes the earlier local cleanup.
 
 ## Source inventory
 
